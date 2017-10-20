@@ -1,0 +1,84 @@
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\TwojaPogoda\TwojaPogoda\bin\TwojaPogoda.dll.config
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\TwojaPogoda\TwojaPogoda\bin\TwojaPogoda.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\TwojaPogoda\TwojaPogoda\bin\TwojaPogoda.pdb
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\TwojaPogoda\TwojaPogoda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\TwojaPogoda\TwojaPogoda\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\TwojaPogoda\TwojaPogoda\bin\System.Web.Helpers.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\TwojaPogoda\TwojaPogoda\bin\System.Web.Mvc.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\TwojaPogoda\TwojaPogoda\bin\System.Web.Razor.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\TwojaPogoda\TwojaPogoda\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\TwojaPogoda\TwojaPogoda\bin\System.Web.Webpages.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\TwojaPogoda\TwojaPogoda\bin\System.Web.Webpages.Razor.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\TwojaPogoda\TwojaPogoda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\TwojaPogoda\TwojaPogoda\bin\System.Web.Razor.xml
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\TwojaPogoda\TwojaPogoda\bin\System.Web.Webpages.xml
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\TwojaPogoda\TwojaPogoda\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\TwojaPogoda\TwojaPogoda\bin\System.Web.Webpages.Razor.xml
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\TwojaPogoda\TwojaPogoda\bin\System.Web.Helpers.xml
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\TwojaPogoda\TwojaPogoda\bin\System.Web.Mvc.xml
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\TwojaPogoda\TwojaPogoda\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\TwojaPogoda\TwojaPogoda\bin\pl\System.Web.Webpages.resources.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\TwojaPogoda\TwojaPogoda\bin\pl\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\TwojaPogoda\TwojaPogoda\bin\pl\System.Web.Webpages.Razor.resources.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\TwojaPogoda\TwojaPogoda\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\TwojaPogoda\TwojaPogoda\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\TwojaPogoda\TwojaPogoda\obj\Debug\TwojaPogoda.csprojResolveAssemblyReference.cache
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\TwojaPogoda\TwojaPogoda\obj\Debug\TwojaPogoda.csproj.CoreCompileInputs.cache
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\TwojaPogoda\TwojaPogoda\obj\Debug\TwojaPogoda.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\TwojaPogoda\TwojaPogoda\obj\Debug\TwojaPogoda.pdb
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\bin\TwojaPogoda.dll.config
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\bin\TwojaPogoda.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\bin\TwojaPogoda.pdb
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\bin\System.Web.Helpers.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\bin\System.Web.Mvc.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\bin\System.Web.Razor.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\bin\System.Web.Webpages.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\bin\System.Web.Webpages.Razor.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\bin\System.Web.Razor.xml
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\bin\System.Web.Webpages.xml
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\bin\System.Web.Webpages.Razor.xml
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\bin\System.Web.Helpers.xml
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\bin\System.Web.Mvc.xml
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\bin\pl\System.Web.Webpages.resources.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\bin\pl\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\bin\pl\System.Web.Webpages.Razor.resources.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\obj\Debug\TwojaPogoda.csprojResolveAssemblyReference.cache
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\obj\Debug\TwojaPogoda.csproj.CoreCompileInputs.cache
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\obj\Debug\TwojaPogoda.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda\TwojaPogoda\obj\Debug\TwojaPogoda.pdb
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda — frontend\TwojaPogoda\bin\TwojaPogoda.dll.config
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda — frontend\TwojaPogoda\bin\TwojaPogoda.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda — frontend\TwojaPogoda\bin\TwojaPogoda.pdb
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda — frontend\TwojaPogoda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda — frontend\TwojaPogoda\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda — frontend\TwojaPogoda\bin\System.Web.Helpers.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda — frontend\TwojaPogoda\bin\System.Web.Mvc.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda — frontend\TwojaPogoda\bin\System.Web.Razor.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda — frontend\TwojaPogoda\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda — frontend\TwojaPogoda\bin\System.Web.Webpages.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda — frontend\TwojaPogoda\bin\System.Web.Webpages.Razor.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda — frontend\TwojaPogoda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda — frontend\TwojaPogoda\bin\System.Web.Razor.xml
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda — frontend\TwojaPogoda\bin\System.Web.Webpages.xml
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda — frontend\TwojaPogoda\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda — frontend\TwojaPogoda\bin\System.Web.Webpages.Razor.xml
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda — frontend\TwojaPogoda\bin\System.Web.Helpers.xml
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda — frontend\TwojaPogoda\bin\System.Web.Mvc.xml
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda — frontend\TwojaPogoda\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda — frontend\TwojaPogoda\bin\pl\System.Web.Webpages.resources.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda — frontend\TwojaPogoda\bin\pl\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda — frontend\TwojaPogoda\bin\pl\System.Web.Webpages.Razor.resources.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda — frontend\TwojaPogoda\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda — frontend\TwojaPogoda\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda — frontend\TwojaPogoda\obj\Debug\TwojaPogoda.csproj.CoreCompileInputs.cache
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda — frontend\TwojaPogoda\obj\Debug\TwojaPogoda.dll
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda — frontend\TwojaPogoda\obj\Debug\TwojaPogoda.pdb
+C:\Users\Rafał\Desktop\Angular2\TwojaPogoda — frontend\TwojaPogoda\obj\Debug\TwojaPogoda.csprojResolveAssemblyReference.cache
